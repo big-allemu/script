@@ -19,6 +19,7 @@ SwitchySharp Rule
 *buycheapaccounts.com/*
 *littlequeensshop*
 *tokopedia*
+*ironsocket*
 
 ; Social/Forums
 *facebook*
